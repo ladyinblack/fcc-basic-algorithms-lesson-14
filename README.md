@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-fhhppz)
 
-###[Where Do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
+### [Where Do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
 
 ## PROBLEM EXPLANATION
 This can be a tricky problem to understand.  You need to find where in the array a number should be inserted by order, and return the index where it should go.
